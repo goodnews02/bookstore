@@ -1,0 +1,26 @@
+* {
+ background-color: blue;
+}
+
+h2 {
+color: black;
+text-align: center;
+}
+
+input {
+    color: red
+    ;
+}
+
+label {
+color: yellow;
+}
+ 
+body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+  }
+
+
